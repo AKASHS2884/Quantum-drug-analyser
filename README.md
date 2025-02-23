@@ -53,17 +53,6 @@ Our system integratesArtificial Intelligence (AI) and Quantum Computing to revol
 🔹 **Personalized treatments**: Tailoring drugs to individual genetic profiles.  
 🔹 **Quantum integration**: Expanding computation capabilities for advanced modeling.  
 🔹 **Industry collaboration**: Partnering with pharmaceutical companies and research institutions.
-
----
-
-🤝 How to Contribute
-Interested in contributing? Follow these steps:
-1. Fork the repository 📌  
-2. Create a feature branch (`git checkout -b feature-name`) 🌟  
-3. Commit your changes (`git commit -m "Implemented new enhancement"`) 🔥  
-4. Push to your branch (`git push origin feature-name`) 🚀  
-5. Open a Pull Request ✅  
-
 ---
 
 📞 Contact Information
