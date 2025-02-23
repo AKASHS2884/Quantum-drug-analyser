@@ -1,0 +1,101 @@
+Patient_ID,Drug_Name,Dosage_mg,Age,Side_Effects,True_Class,Predicted_Class
+P001,DrugA,67,58,Yes,Effective,Effective
+P002,DrugB,463,75,Yes,Effective,Effective
+P003,DrugC,455,54,Yes,Not Effective,Not Effective
+P004,DrugC,314,33,No,Effective,Effective
+P005,DrugA,498,58,No,Not Effective,Effective
+P006,DrugC,282,59,No,Effective,Effective
+P007,DrugD,263,47,No,Effective,Effective
+P008,DrugD,324,44,Yes,Effective,Not Effective
+P009,DrugC,286,61,Yes,Effective,Not Effective
+P010,DrugE,480,30,No,Effective,Effective
+P011,DrugB,414,55,No,Not Effective,Effective
+P012,DrugE,467,29,No,Not Effective,Effective
+P013,DrugC,406,62,No,Not Effective,Not Effective
+P014,DrugE,329,54,No,Not Effective,Not Effective
+P015,DrugB,418,37,No,Effective,Not Effective
+P016,DrugA,489,46,No,Not Effective,Effective
+P017,DrugE,176,22,Yes,Not Effective,Not Effective
+P018,DrugC,151,26,No,Not Effective,Not Effective
+P019,DrugA,494,53,No,Not Effective,Not Effective
+P020,DrugC,163,80,Yes,Not Effective,Not Effective
+P021,DrugC,226,72,Yes,Not Effective,Effective
+P022,DrugE,498,22,No,Not Effective,Effective
+P023,DrugA,331,22,No,Not Effective,Not Effective
+P024,DrugB,155,44,No,Effective,Not Effective
+P025,DrugE,450,42,No,Not Effective,Effective
+P026,DrugD,209,66,No,Not Effective,Effective
+P027,DrugB,237,75,No,Effective,Not Effective
+P028,DrugA,450,65,Yes,Not Effective,Not Effective
+P029,DrugD,344,69,Yes,Effective,Effective
+P030,DrugD,359,62,Yes,Not Effective,Not Effective
+P031,DrugE,239,57,No,Not Effective,Not Effective
+P032,DrugE,109,47,Yes,Not Effective,Effective
+P033,DrugB,99,57,No,Not Effective,Effective
+P034,DrugC,252,60,No,Not Effective,Effective
+P035,DrugB,445,77,No,Not Effective,Not Effective
+P036,DrugB,480,39,No,Not Effective,Effective
+P037,DrugE,349,77,Yes,Not Effective,Not Effective
+P038,DrugB,395,29,No,Not Effective,Effective
+P039,DrugA,103,75,No,Effective,Not Effective
+P040,DrugD,214,35,Yes,Effective,Effective
+P041,DrugE,242,56,No,Effective,Not Effective
+P042,DrugD,404,24,Yes,Effective,Effective
+P043,DrugE,63,80,Yes,Effective,Not Effective
+P044,DrugE,279,26,Yes,Not Effective,Effective
+P045,DrugE,381,26,No,Effective,Effective
+P046,DrugE,125,53,No,Not Effective,Not Effective
+P047,DrugC,449,77,No,Effective,Not Effective
+P048,DrugE,471,47,No,Effective,Not Effective
+P049,DrugB,479,70,No,Effective,Effective
+P050,DrugC,461,80,Yes,Not Effective,Not Effective
+P051,DrugD,437,49,No,Not Effective,Effective
+P052,DrugC,367,39,Yes,Effective,Effective
+P053,DrugD,151,20,Yes,Not Effective,Not Effective
+P054,DrugE,484,45,Yes,Effective,Effective
+P055,DrugD,233,68,No,Not Effective,Effective
+P056,DrugA,389,70,No,Effective,Effective
+P057,DrugB,121,25,No,Not Effective,Not Effective
+P058,DrugE,69,77,No,Not Effective,Not Effective
+P059,DrugA,150,19,Yes,Not Effective,Effective
+P060,DrugD,201,53,Yes,Effective,Effective
+P061,DrugC,225,40,No,Not Effective,Not Effective
+P062,DrugC,243,53,Yes,Effective,Effective
+P063,DrugD,478,77,Yes,Not Effective,Effective
+P064,DrugC,292,73,No,Effective,Effective
+P065,DrugA,115,75,No,Effective,Effective
+P066,DrugA,255,47,No,Not Effective,Not Effective
+P067,DrugD,261,74,No,Not Effective,Effective
+P068,DrugE,180,73,No,Effective,Not Effective
+P069,DrugA,303,33,Yes,Effective,Effective
+P070,DrugB,179,37,Yes,Not Effective,Not Effective
+P071,DrugD,73,40,Yes,Effective,Effective
+P072,DrugE,56,46,Yes,Not Effective,Not Effective
+P073,DrugC,127,24,No,Not Effective,Not Effective
+P074,DrugC,80,72,No,Effective,Not Effective
+P075,DrugD,147,33,No,Not Effective,Not Effective
+P076,DrugD,483,57,No,Not Effective,Effective
+P077,DrugA,186,57,No,Not Effective,Effective
+P078,DrugB,261,48,Yes,Not Effective,Effective
+P079,DrugC,493,67,Yes,Not Effective,Effective
+P080,DrugA,282,19,Yes,Not Effective,Effective
+P081,DrugB,373,62,No,Not Effective,Effective
+P082,DrugA,407,45,Yes,Effective,Not Effective
+P083,DrugC,286,26,No,Not Effective,Effective
+P084,DrugC,63,44,No,Not Effective,Effective
+P085,DrugA,473,38,Yes,Not Effective,Not Effective
+P086,DrugE,424,36,Yes,Effective,Effective
+P087,DrugE,478,57,Yes,Effective,Effective
+P088,DrugD,296,53,Yes,Not Effective,Not Effective
+P089,DrugC,343,55,Yes,Not Effective,Not Effective
+P090,DrugC,75,68,Yes,Not Effective,Effective
+P091,DrugE,299,40,Yes,Effective,Not Effective
+P092,DrugE,213,24,Yes,Effective,Not Effective
+P093,DrugD,392,35,No,Not Effective,Effective
+P094,DrugC,340,24,No,Effective,Effective
+P095,DrugA,309,30,Yes,Not Effective,Not Effective
+P096,DrugE,207,25,No,Effective,Effective
+P097,DrugC,382,25,No,Not Effective,Effective
+P098,DrugD,209,31,Yes,Not Effective,Not Effective
+P099,DrugD,226,62,Yes,Not Effective,Not Effective
+P100,DrugE,494,38,Yes,Effective,Not Effective
