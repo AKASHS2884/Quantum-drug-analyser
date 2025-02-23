@@ -1,11 +1,12 @@
 🌟 AI-Powered Quantum Drug Discovery
+
 RESPECTED COORDINATORS DUE TO HEAVYWEIGHT API CONFIGURATION LIKE AUTODOCK AND MALTAPP DEEPFOLD THE PROJECT SIZE IS MORE THAN 500mb, WHICH CANNOT BE PUSHED ON GIT/GITHUB. SO HERE I ONLY UPLOAD THE (REGRESSION MODEL(CNN & GNN) AND PREDICTION MODEL) AND CONFUSION MATRIX OF THE DRUG EFFECTIVENESS + TRADITIONAL vs QUANTUM REDEEMTION
 
 !!! IF ANY QUERIES KINDLY CONTACT ME ON VENUE !!!
 
 
 📌 Overview
-Our system integrates **Artificial Intelligence (AI) and Quantum Computing to revolutionize pharmaceutical research. By significantly reducing the time and cost associated with drug discovery, this innovative approach enhances efficiency and precision in identifying effective treatments.
+Our system integratesArtificial Intelligence (AI) and Quantum Computing to revolutionize pharmaceutical research. By significantly reducing the time and cost associated with drug discovery, this innovative approach enhances efficiency and precision in identifying effective treatments.
 
  🎯Why It Matters?
 - Conventional drug discovery is time-intensive, often exceeding **10 years** and billions in cost.
